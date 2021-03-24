@@ -1,3 +1,3 @@
 # Radio Buttons
 
-![](./pictures/beach3.jpg)
+![The Beach](./pictures/beach3.jpg)
